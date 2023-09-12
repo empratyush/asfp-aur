@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Android Studio for Platform
+GenericName=IDE
+Exec=asfp %f
+StartupNotify=true
+Terminal=false
+Icon=asfp
+Type=Application
+Categories=Development;IDE;
+StartupWMClass=android-studio-for-platform
+MimeType=application/x-androidbp;application/x-extension-iml;
